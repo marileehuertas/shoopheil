@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xuseewoiv.aakashpydi.com/sitemap.xml
